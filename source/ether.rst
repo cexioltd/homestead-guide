@@ -83,6 +83,7 @@ Bittylicious               GBP
 BTER                       CNY
 Yunbi                      CNY
 Metaexchange               BTC
+CEX.IO                     BTC, USD, EUR
 ========================== ============================
 
 
